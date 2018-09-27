@@ -1,0 +1,14 @@
+2018-09-27 17:45:31,103 [main] INFO Utils.TestBase - Waiting for page to load... Max Wait Time is :: 30 Secs.
+2018-09-27 17:45:32,119 [main] INFO Utils.TestBase - Current Page Status :: complete :: Waited For 1 Seconds
+2018-09-27 17:45:32,167 [main] INFO Utils.TestBase - Successfully launched the browser
+2018-09-27 17:45:32,174 [main] INFO Utils.TestBase - ********* Launching chrome browser*****************
+2018-09-27 17:45:39,322 [main] INFO Utils.TestBase - ********* Opening URL-- https://www.freecrm.com/index.html *****************
+2018-09-27 17:45:39,427 [main] INFO Utils.TestBase - Message: Successfully Opened link
+2018-09-27 17:46:03,164 [main] ERROR Utils.TestBase - Message: Unable to send data to element : null
+2018-09-27 17:46:03,165 [main] ERROR Utils.TestBase - Unable to send data to element : null
+2018-09-27 17:46:18,410 [main] ERROR Utils.TestBase - Message: Unable to send data to element : null
+2018-09-27 17:46:18,412 [main] ERROR Utils.TestBase - Unable to send data to element : null
+2018-09-27 17:46:18,563 [main] ERROR Utils.TestBase - Message: Unable to send data to element : null
+2018-09-27 17:46:18,563 [main] ERROR Utils.TestBase - Unable to send data to element : null
+2018-09-27 17:46:30,079 [main] ERROR Utils.TestBase - Message: Unable to send data to element : null
+2018-09-27 17:46:30,079 [main] ERROR Utils.TestBase - Unable to send data to element : null
